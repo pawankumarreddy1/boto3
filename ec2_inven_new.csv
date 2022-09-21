@@ -1,0 +1,11 @@
+Sno,InstanceID,InstanceType,KeyName,Private_Ip,Public_Ip
+1,i-0e0e8cf84fb20ad98,t2.micro,pavan2-key,10.0.0.26,65.2.168.252
+2,i-0e709af4adc118d12,c5.xlarge,pavan2-key,10.0.0.100,43.205.239.191
+3,i-0de2fcacddf9dc326,t2.micro,pavan2-key,10.0.0.225,13.234.78.195
+4,i-07e55f80d9ac5258b,t2.micro,bastion,10.0.1.151,18.139.255.234
+5,i-043e4d728cd7be84a,t2.micro,testing-damu,10.0.1.248,18.140.67.228
+6,i-0a39e0e9e90892357,t2.micro,testing-damu,10.0.1.32,52.221.194.78
+7,i-0ddddf1d7e32beeb2,t2.micro,testing,10.0.1.92,3.1.5.233
+8,i-0cfd0e5513bb33db2,t2.micro,testing,10.0.1.102,54.251.21.245
+9,i-02bb46966c3a69db8,t2.micro,testing,10.0.2.127,13.212.241.93
+10,i-08948cb9960b6491c,t2.micro,testing,10.0.2.30,54.255.185.126
